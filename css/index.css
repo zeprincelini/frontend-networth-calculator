@@ -57,6 +57,15 @@ hr{
 	margin-top: 50px;
 }
 
+.navigation .img-icon{
+	position: absolute;
+	left: 70px;
+}
+
+/*.navigation .img-icon2{
+	margin-right: 20px;
+}*/
+
 /*----------------------*/
 /*main section*/
 /*----------------------*/
@@ -196,4 +205,23 @@ footer{
 	padding-top: 10px;
 	color: #846E98;
 	font-weight: bold;
+}
+
+.edit{
+	color: black;
+}
+
+.delete{
+	color: white;
+}
+
+.btn{
+	padding: 1px 12px !important;
+}
+
+.naira{
+	text-decoration: line-through;
+	text-decoration-style: double;
+	font-size: 15px;
+	vertical-align: top;
 }
